@@ -1,2 +1,1 @@
-# DSA_Problem
-Master Data Structures &amp; Algorithms from zero with clear explanations, step-by-step code walkthroughs, and hands-on problem solving. This repository is perfect for beginners, students, and anyone preparing for coding interviews. New videos &amp; exercises added regularly — keep learning and growing!
+"© [2025] [Tech By WebCoder]. All rights reserved. This Project is protected by copyright. Any unauthorized , distribution, or exhibition of this project, in whole or in part, is strictly prohibited."
